@@ -7,6 +7,8 @@ Este repositorio aloja archivos públicos de soporte para la distribución y mon
 ## Contenido
 
 - `app-ads.txt`: declaración de vendedores de publicidad autorizados para las aplicaciones asociadas al dominio del desarrollador.
+- `privacy-policy.html`: política de privacidad de Rescate Tempestad.
+- `corsarios-del-caribe/privacidad.html`: política de privacidad de Corsarios del Caribe.
 - `README.md`: descripción del propósito del repositorio.
 
 ## Publicación y comprobación
